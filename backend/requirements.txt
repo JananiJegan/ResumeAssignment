@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyresparser
+spacy
+langchain
+langchain-google-genai
